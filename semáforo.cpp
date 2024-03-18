@@ -1,5 +1,4 @@
-// C++ code
-//
+
 void setup()
 {
     pinMode(0, OUTPUT);
